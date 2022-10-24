@@ -1,2 +1,80 @@
 
 /* css */
+
+html{
+  background-color: #E6C2BF;
+}
+body{
+  color: black;
+  font-family: "Raleway";
+  font-weight: normal;
+  font-size: 20px;
+
+}
+
+.list{
+  color: black;
+  font-family: "Raleway";
+  font-weight: normal;
+  font-size: 20px;
+  text-indent: 50px;
+}
+
+h1{
+  color: #E6C2BF;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 60px;
+
+}
+
+h2{
+    color: white;
+    font-family: "Playfair Display";
+    font-weight: bold;
+    font-size: 60px;
+
+}
+.bodyData{
+  color: black;
+  font-family: "Raleway";
+  font-weight: normal;
+  font-size: 20px;
+  margin: 2em;
+  background-color: #E6C2BF
+}
+
+.bodyRec{
+  color: black;
+  font-family: "Raleway";
+  font-weight: normal;
+  font-size: 20px;
+  margin: 1em;
+  background-color: #E6C2BF
+}
+.header2{
+  color: white;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.WebHeader{
+  background-color: white;
+}
+
+.Methodology{
+  background-color: white;
+  margin: 1em;
+}
+
+.DataAnalysis{
+  background-color: #E6C2BF;
+  body: 1em;
+}
+
+.Recommendations{
+  background-color: #E6C2BF;
+  margin: -3px;
+
+}
